@@ -1,0 +1,35 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: #f5f7fa;
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  }
+  
+  input[type="file"] {
+    margin: 20px 0;
+  }
+  
+  #rawData {
+    max-height: 200px;
+    overflow: auto;
+    margin-bottom: 20px;
+  }
+  #lineChart {
+    margin-top: 40px;
+  }
+  #lineChart {
+    margin-top: 40px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
